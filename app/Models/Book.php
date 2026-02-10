@@ -13,6 +13,6 @@ class Book extends Model
         'title',
         'author',
         'year',
-        'description'
+        'stock'
     ];
 }
